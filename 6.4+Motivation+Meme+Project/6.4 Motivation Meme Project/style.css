@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+#Card {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#Card img {
+  border: 5px solid white;
+}
+
+#Card h1 {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-transform: uppercase;
+}
+
+#Card p {
+  color: white;
+}
